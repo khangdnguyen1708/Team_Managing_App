@@ -3,7 +3,7 @@ import "./App.css";
 import Header from "./Header";
 import Footer from "./Footer";
 import Employees from "./Employees";
-import Nav from "./nav";
+import Nav from "./Nav";
 import NotFound from "./NotFound";
 import GroupedTeamMembers from "./GroupedTeamMembers";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
