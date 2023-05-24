@@ -141,7 +141,7 @@ function App() {
         />
         <Routes>
           <Route
-            path={["/", "/Team_Managing_App"]}
+            path="/Team_Managing_App"
             element={
               <Employees
                 employees={employees}
